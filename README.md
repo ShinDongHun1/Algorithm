@@ -1,5 +1,6 @@
 
 ## 동훈이의 백준 풀이
+<img src="https://static.solved.ac/tier_small/11.svg  width="200" height="400"/>
 |날짜|번호|제목|난이도|풀이|문제 주소|
 |---|---|---|---|---|---|
 |2022-02-02|1,260|DFS와 BFS|SILVER_II|[풀이](https://github.com/ShinDongHun1/Algorithm/blob/main/BOJ/src/bfs와dfs/백준1260.java)|[문제 주소](https://www.acmicpc.net/problem/1260)|
