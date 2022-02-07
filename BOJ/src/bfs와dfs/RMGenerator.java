@@ -1,12 +1,11 @@
 package bfs와dfs;
 
+
 import gitrepourlparser.AbsolutePathBeforePackageNameParser;
-import gitrepourlparser.GitRepositoryUrlParser;
-import gitrepourlparser.PersonalGitRepositoryUrlParser;
 import readmegenerator.BOJReadmeGenerator;
-import readmegenerator.ReadmeGenerator;
 
 public class RMGenerator {
+
     public static void main(String[] args) {
         AbsolutePathBeforePackageNameParser parser = new AbsolutePathBeforePackageNameParser();
 
