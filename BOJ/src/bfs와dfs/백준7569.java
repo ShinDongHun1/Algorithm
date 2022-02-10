@@ -1,8 +1,8 @@
 package bfs와dfs;
 
-import annotation.BOJ;
-import annotation.BaekjoonTier;
+
 import annotation.SolveDate;
+import annotation.boj.BOJ;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -12,9 +12,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-@BOJ(   number = 7569,
-        tier = BaekjoonTier.GOLD_V,
-        solveDate = @SolveDate(year = 2022, month = 2, day = 8))
+@BOJ
 public class 백준7569 {
 
     public static void main(String[] args) throws Exception {
