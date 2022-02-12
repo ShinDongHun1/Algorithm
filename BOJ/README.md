@@ -12,4 +12,4 @@
 |2022-02-09|1697|숨바꼭질|<img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20" /> SILVER_I|[풀이](https://github.com/ShinDongHun1/Algorithm/blob/main/BOJ/src/bfs와dfs/백준1697.java)|[문제 주소](https://www.acmicpc.net/problem/1697)|
 |2022-02-10|7562|나이트의 이동|<img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20" /> SILVER_II|[풀이](https://github.com/ShinDongHun1/Algorithm/blob/main/BOJ/src/bfs와dfs/백준7562.java)|[문제 주소](https://www.acmicpc.net/problem/7562)|
 |2022-02-11|2206|벽 부수고 이동하기|<img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20" /> GOLD_IV|[풀이](https://github.com/ShinDongHun1/Algorithm/blob/main/BOJ/src/bfs와dfs/백준2206.java)|[문제 주소](https://www.acmicpc.net/problem/2206)|
-
+|2022-02-12|1920|수 찾기|<img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20" /> SILVER_IV|[풀이](https://github.com/ShinDongHun1/Algorithm/blob/main/BOJ/src/bfs와dfs/백준1920.java)|[문제 주소](https://www.acmicpc.net/problem/1920)|
