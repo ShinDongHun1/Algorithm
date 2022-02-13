@@ -6,6 +6,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.stream.Collectors;
 
 @BOJ
 public class 백준1920 {
@@ -15,18 +18,23 @@ public class 백준1920 {
 
 
         int N = Integer.parseInt(br.readLine());
-        int[] array = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
-        Arrays.sort(array);
+        List<Integer> collect = Arrays.stream(br.readLine().split(" ")).map(Integer::parseInt).collect(Collectors.toList());
+        Collections.sort(collect);
 
         int M = Integer.parseInt(br.readLine());
         int[] searchArr = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 
+        Arrays.stream(searchArr).forEach(i -> System.out.println(mapToZeroOrOne(Collections.binarySearch(collect, i))));
 
-        Arrays.stream(searchArr).forEach(i -> search(array, i));
+
+        //Arrays.stream(searchArr).forEach(i -> search(array, i));
 
 
     }
 
+    public static int mapToZeroOrOne(int k){
+        return (k >= 0) ? 1 : 0;
+    }
     /**
      * 이분 탐색 수행
      */
