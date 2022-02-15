@@ -1,4 +1,4 @@
-package bfs와dfs;
+package 이분탐색;
 
 import annotation.boj.BOJ;
 
