@@ -1,6 +1,3 @@
-package bfs와dfs;
-
-
 import gitrepourlparser.AbsolutePathBeforePackageNameParser;
 import readmegenerator.BOJReadmeGenerator;
 
