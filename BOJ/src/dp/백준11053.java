@@ -20,13 +20,6 @@ public class 백준11053 {
 
         arr = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 
-        /**
-         * 만약 이전 수가 현재 수보다 작다면? -> +1
-         * 만약 이전 수가 현재 수와 같다면? -> 이전 수 그대로
-         * 만약 이전 수가 현재 수보다 크다면? -> 이전의 이전 수..... 0까지
-         */
-
-
 
         for(int i=0; i< arr.length; i++){
             dp[i]=1;
@@ -37,7 +30,6 @@ public class 백준11053 {
                 }
             }
         }
-
 
         System.out.println(Arrays.stream(dp).max().getAsInt());
 
