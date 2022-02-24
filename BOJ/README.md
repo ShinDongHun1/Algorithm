@@ -22,3 +22,4 @@
 |2022-02-20|10844|쉬운 계단 수|<img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20" /> SILVER_I|[풀이](https://github.com/ShinDongHun1/Algorithm/blob/main/BOJ/src/dp/백준10844.java)|[문제 주소](https://www.acmicpc.net/problem/10844)|
 |2022-02-21|11053|가장 긴 증가하는 부분 수열|<img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20" /> SILVER_II|[풀이](https://github.com/ShinDongHun1/Algorithm/blob/main/BOJ/src/dp/백준11053.java)|[문제 주소](https://www.acmicpc.net/problem/11053)|
 |2022-02-23|2565|전깃줄|<img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20" /> GOLD_V|[풀이](https://github.com/ShinDongHun1/Algorithm/blob/main/BOJ/src/dp/백준2565.java)|[문제 주소](https://www.acmicpc.net/problem/2565)|
+|2022-02-24|9251|LCS|<img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20" /> GOLD_V|[풀이](https://github.com/ShinDongHun1/Algorithm/blob/main/BOJ/src/dp/백준9251.java)|[문제 주소](https://www.acmicpc.net/problem/9251)|
