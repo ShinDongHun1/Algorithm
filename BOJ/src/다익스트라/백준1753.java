@@ -16,7 +16,7 @@ import static java.util.stream.IntStream.rangeClosed;
  */
 
 @BOJ
-public class 백준1504 {
+public class 백준1753 {
 
     private static int numberOfVertices;
     private static int numberOfEdges;
